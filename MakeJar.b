@@ -1,5 +1,5 @@
 #!/bin/bash
 cd class
 jar cfm GameOfLife.jar ../src/manifest.txt *.class res
-mv GameOfLife.jar ../jar
+mv GameOfLife.jar ../
 cd ..
